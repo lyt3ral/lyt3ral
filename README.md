@@ -1,7 +1,7 @@
 ### Hi there 👋
-### - 🛠️ I'm a CS student, i make stuff..
-### - 💻 I am passionate about building projects and exploring various fields related to computer science..
-### - 🔐 My favorite areas of focus are software development and cybersecurity..
+- 🛠️ I'm a CS student, i make stuff..
+- 💻 I am passionate about building projects and exploring various fields related to computer science..
+- 🔐 My favorite areas of focus are software development and cybersecurity..
 
 <!--
 **lyt3ral/lyt3ral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
