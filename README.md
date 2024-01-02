@@ -63,7 +63,7 @@
 <!-- Displayed in specific rows -->
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyt3ral&theme=dark&show_icons=true&locale=en&layout=compact" alt="lyt3ral" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyt3ral&theme=dark&show_icons=true&locale=en&layout=compact" alt="lyt3ral" style="height: 195px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=lyt3ral&show_icons=true&locale=en&theme=dark" alt="lyt3ral" style="align-self: flex-start;" />
   </div>
 
