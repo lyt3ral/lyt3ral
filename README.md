@@ -10,6 +10,8 @@
   <img src="https://wakatime.com/badge/user/016e0938-ab86-4c40-9840-9460e05f9efc.svg?style=for-the-badge"/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=lyt3ral&label=Profile+Visitors&color=000000&style=for-the-badge)
+
 ## Links 🔗
 
 <a href="https://github.com/lyt3ral" target="_blank">
