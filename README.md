@@ -1,3 +1,5 @@
+![Header](./github-header.png)
+
 ## About Me
 
 - 🌱 I’m currently learning **Ruby 💎**
