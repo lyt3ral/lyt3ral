@@ -2,8 +2,6 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Ruby 💎**
-
 - 💬 Ask me about **nextjs & typescript**
 
 <a href="https://wakatime.com/@lyteral" target="_blank">
